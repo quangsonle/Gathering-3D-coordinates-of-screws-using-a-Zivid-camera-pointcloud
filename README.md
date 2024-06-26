@@ -46,3 +46,5 @@ Access the server by navigating to "127.0.0.1:8000" in a web browser.
 - infer.py contains the declarations for the YOLO class and methods.
 - server.py is the backend of the server.
 - The templates folder contains index.html, which is the frontend interface of the server.
+The showcase, which ran on a CPU, could see performance improvements if it operated on a GPU using more optimal model formats, such as ONNX or TensorRT, instead of Torch.
+Two samples (pc2.ply and pc4.ply) are provided for a validation 
