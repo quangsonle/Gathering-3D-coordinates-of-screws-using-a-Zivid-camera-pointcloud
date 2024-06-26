@@ -51,3 +51,5 @@ The showcase, which ran on a CPU, could see performance improvements if it opera
 Two samples (pc2.ply and pc4.ply) are provided for a validation 
 
 Video: https://www.youtube.com/watch?v=Oi7rD8fVt1s
+
+- These instructions do not cover how to annotate and train the data to create the model.
